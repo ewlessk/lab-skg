@@ -1,0 +1,9 @@
+H:\СКГ\lab 1_3\lab 1_3\obj\Debug\lab 1_3.csprojAssemblyReference.cache
+H:\СКГ\lab 1_3\lab 1_3\obj\Debug\lab_1_3.Form1.resources
+H:\СКГ\lab 1_3\lab 1_3\obj\Debug\lab_1_3.Properties.Resources.resources
+H:\СКГ\lab 1_3\lab 1_3\obj\Debug\lab 1_3.csproj.GenerateResource.cache
+H:\СКГ\lab 1_3\lab 1_3\bin\Debug\lab 1_3.exe.config
+H:\СКГ\lab 1_3\lab 1_3\bin\Debug\lab 1_3.exe
+H:\СКГ\lab 1_3\lab 1_3\bin\Debug\lab 1_3.pdb
+H:\СКГ\lab 1_3\lab 1_3\obj\Debug\lab 1_3.exe
+H:\СКГ\lab 1_3\lab 1_3\obj\Debug\lab 1_3.pdb
