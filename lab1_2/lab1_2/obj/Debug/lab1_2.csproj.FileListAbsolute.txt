@@ -7,3 +7,4 @@ D:\скг2\lab1_2\lab1_2\obj\Debug\lab1_2.csproj.GenerateResource.cache
 D:\скг2\lab1_2\lab1_2\obj\Debug\lab1_2.csproj.CoreCompileInputs.cache
 D:\скг2\lab1_2\lab1_2\obj\Debug\lab1_2.exe
 D:\скг2\lab1_2\lab1_2\obj\Debug\lab1_2.pdb
+D:\скг2\lab1_2\lab1_2\obj\Debug\lab1_2.csproj.AssemblyReference.cache
