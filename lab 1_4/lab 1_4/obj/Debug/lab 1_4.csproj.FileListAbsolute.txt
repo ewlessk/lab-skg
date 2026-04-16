@@ -7,3 +7,14 @@ H:\СКГ\lab 1_4\lab 1_4\bin\Debug\lab 1_4.exe
 H:\СКГ\lab 1_4\lab 1_4\bin\Debug\lab 1_4.pdb
 H:\СКГ\lab 1_4\lab 1_4\obj\Debug\lab 1_4.exe
 H:\СКГ\lab 1_4\lab 1_4\obj\Debug\lab 1_4.pdb
+A:\vs\C#\LABA1\lab1\lab 1_4\lab 1_4\bin\Debug\lab 1_4.exe.config
+A:\vs\C#\LABA1\lab1\lab 1_4\lab 1_4\bin\Debug\lab 1_4.exe
+A:\vs\C#\LABA1\lab1\lab 1_4\lab 1_4\bin\Debug\lab 1_4.pdb
+A:\vs\C#\LABA1\lab1\lab 1_4\lab 1_4\obj\Debug\lab 1_4.csproj.AssemblyReference.cache
+A:\vs\C#\LABA1\lab1\lab 1_4\lab 1_4\obj\Debug\lab 1_4.exe.config
+A:\vs\C#\LABA1\lab1\lab 1_4\lab 1_4\obj\Debug\lab_1_4.Form1.resources
+A:\vs\C#\LABA1\lab1\lab 1_4\lab 1_4\obj\Debug\lab_1_4.Properties.Resources.resources
+A:\vs\C#\LABA1\lab1\lab 1_4\lab 1_4\obj\Debug\lab 1_4.csproj.GenerateResource.cache
+A:\vs\C#\LABA1\lab1\lab 1_4\lab 1_4\obj\Debug\lab 1_4.csproj.CoreCompileInputs.cache
+A:\vs\C#\LABA1\lab1\lab 1_4\lab 1_4\obj\Debug\lab 1_4.exe
+A:\vs\C#\LABA1\lab1\lab 1_4\lab 1_4\obj\Debug\lab 1_4.pdb
